@@ -1,0 +1,1 @@
+{"WebSocketAddress":"127.0.0.1:38088","UpdateBranch":"Stable","AccptedTerms300":true,"OriginExceptions":["^http:\\/\\/resource$","^(?:(?!http).)*$"],"InstanceTimeout":20,"Is3dEnabled":true,"ExpertMode":false,"LogLevel":"Info","PhoneOffset":"RightOnly","RadioOffset":"LeftOnly","SecondaryRadioOffset":"RightOnly","MicClickMode":"Never"}
