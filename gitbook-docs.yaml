@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Wiki - RoleplayOnline
+  structure:
+    - type: space
+      key: space-1
+      title: Wiki - RoleplayOnline
+      path: wiki-roleplayonline
+      default: true
+      content:
+        directory: ./wiki-roleplayonline
+        language: de
